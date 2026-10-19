@@ -1,0 +1,6 @@
+# Never commit real trading data
+*.xlsx
+*.xlsm
+*.xls
+__pycache__/
+.venv/
